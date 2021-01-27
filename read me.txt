@@ -1,0 +1,14 @@
+Hidden Search Widget Project.
+I have learned From this Project:
+
+JS:
+1- classList.toggle();
+2- input.focus();
+
+CSS:
+1- background-image: linear-gradient(90deg, #7d5fff, #7158);
+2- .Button:focus,
+.input:focus {
+  outline: none;
+}
+
